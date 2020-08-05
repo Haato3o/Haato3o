@@ -5,6 +5,7 @@
         viewBox="0 0 300 285"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
+	onload="console.log('test')"
       >
         <style>
           .header {
@@ -18,7 +19,6 @@
 
           
         </style>
-		<script>alert(1);</script>
         <rect
           data-testid="card-bg"
           x="0.5"
