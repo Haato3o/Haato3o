@@ -1,5 +1,5 @@
 ## <img src="https://cdn.discordapp.com/emojis/630965840208199680.gif?v=1" height=32/> Welcome to my Github! <img src="https://cdn.discordapp.com/emojis/630965840208199680.gif?v=1" height=32/>
-I'm a computer science student, I like programming, learning and reverse engineering.
+I like programming and reverse engineering, understanding how stuff works and things like that.
 
 You can find me on Discord: **Haato#0001**
 
