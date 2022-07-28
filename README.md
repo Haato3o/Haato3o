@@ -11,7 +11,9 @@ I've also been developing HunterPie, a modern and easy-to-use overlay for Monste
 
 ## My stack
 
-I don't actually have pet language, although `C#`, `Python`, `C++` and `Rust` have a special place in my heart. Besides those, I've also coded in a lot of other languages, including: `Lua`, `Go`, `Kotlin`, `JavaScript` and even `Assembly (x86)`.
+I don't actually have pet language, although `C#`, `Python`, `C++` and `Rust` have a special place in my heart. Besides those, I've also coded in a lot of other languages, including: `Lua`, `Go`, `Kotlin`, `JavaScript` and even `Assembly (x86)`. I love learning new languages and also diving deep into how they're made and how they work, so I'm pretty flexible about that.
+
+Besides languages, I also have knowledge in `Docker` (docker compose is a bless), `Kafka`, `Microservices`, `AWS`, `MySQL`, `MongoDB`.
 
 You can find me on Discord: **Haato#0001**
 
