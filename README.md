@@ -2,16 +2,16 @@
 
 ## About me
 
-I'm a 22 year old guy who is interested in coding, reverse engineering and making software. I have no college degree, although I dropped out my Computer Science bachelor degree in my first year, been working as a backend engineer since 2021 at PicPay, a brazilian fintech.
+I'm a 22 year old guy who is highly interested in coding, reverse engineering and making software. I dropped out of my computer science bachelor degree after a year and been working as a backend engineer since 2021 at PicPay, a brazilian fintech.
 
-I've also been developing HunterPie, a modern and easy-to-use overlay for Monster Hunter games, feel free to check them out.
+When I'm not working, I'm either developing my personal projects, reverse engineering games or just playing video game. The project I'm the most proud of is HunterPie, an easy-to-use and modern, yet very robust, overlay for Monster Hunter games with a couple thousands of active users every day, feel free to check them out.
 
-- [HunterPie (Legacy)](https://github.com/Haato3o/HunterPie)
 - [HunterPie](https://github.com/Haato3o/HunterPie-v2)
+- [HunterPie (Legacy)](https://github.com/Haato3o/HunterPie)
 
 ## My stack
 
-I don't actually have pet language, although `C#`, `Python`, `C++` and `Rust` have a special place in my heart. Besides those, I've also coded in a lot of other languages, including: `Lua`, `Go`, `Kotlin`, `JavaScript` and even `Assembly (x86)`. I love learning new languages and also diving deep into how they're made and how they work, so I'm pretty flexible about that.
+I don't actually have a pet language although `C#`, `Python`, `C++` and `Rust` have a special place in my heart. Besides those, I've also coded in a lot of other languages, including: `Lua`, `Go`, `Kotlin`, `JavaScript` and even `Assembly (x86)`. I love learning new languages and also diving deep into how they're made and how they work, so I'm pretty flexible about that.
 
 Besides languages, I also have knowledge in `Docker` (docker compose is a bless), `Kafka`, `Microservices`, `AWS`, `MySQL`, `MongoDB`.
 
