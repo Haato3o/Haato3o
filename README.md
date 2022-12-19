@@ -13,7 +13,7 @@ When I'm not working, I'm either developing my personal projects, reverse engine
 
 I don't actually have a pet language although `C#`, `Python`, `C++` and `Rust` have a special place in my heart. Besides those, I've also coded in a lot of other languages, including: `Lua`, `Go`, `Kotlin`, `JavaScript` and even `Assembly (x86)`. I love learning new languages and also diving deep into how they're made and how they work, so I'm pretty flexible about that.
 
-Besides languages, I also have knowledge in `Docker` (docker compose is a bless), `Kafka`, `Microservices`, `AWS`, `MySQL`, `MongoDB`.
+Besides languages, I also have knowledge in `Docker` (docker compose is a bless), `Kafka`, `Microservices`, `AWS`, `MySQL`, `MongoDB`, `RabbitMq`.
 
 You can find me on Discord: **Haato#0001**
 
