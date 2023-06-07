@@ -9,6 +9,17 @@ When I'm not working, I'm either developing my personal projects, reverse engine
 - [HunterPie](https://github.com/Haato3o/HunterPie-v2)
 - [HunterPie (Legacy)](https://github.com/Haato3o/HunterPie)
 
+Some other projects worth taking a look:
+- [eskema](https://github.com/Haato3o/eskema)
+- [Moonstone](https://github.com/Haato3o/Moonstone)
+
+## Articles
+
+I also like sharing the knowledge I've acquired while developing my own things, if you're interested in articles, you can find some of them here:
+
+- [HunterPie - An in-depth overview](https://docs.hunterpie.com/posts/hunterpie-an-in-depth-overview/)
+- [The development of HunterPie](https://docs.hunterpie.com/posts/development-of-hunterpie/)
+
 ## My stack
 
 I don't actually have a pet language although `C#`, `Python`, `C++` and `Golang` have a special place in my heart. Besides those, I've also coded in a lot of other languages, including: `Lua`, `Rust`, `Kotlin`, `JavaScript` and even `Assembly (x86)`. I love learning new languages and also diving deep into how they're made and how they work, so I'm pretty flexible about that.
