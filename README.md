@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a 22 year old guy who is highly interested in coding, reverse engineering and making software. I dropped out of my computer science bachelor degree after a year and been working as a backend engineer since 2021 at PicPay, one of the biggest Brazilians fintech.
+I'm a 23 year old guy who is highly interested in coding, reverse engineering and making software. I dropped out of my computer science bachelor degree after a year and been working as a backend engineer since 2021 at PicPay, one of the biggest Brazilians fintech.
 
 When I'm not working, I'm either developing my personal projects, reverse engineering or just playing video games. The project I'm the most proud of is HunterPie, an easy-to-use and modern, yet very robust, overlay for Monster Hunter games with a couple thousands of active users daily, feel free to check them out.
 
