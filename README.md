@@ -26,7 +26,7 @@ I don't actually have a pet language although `C#`, `Python`, `C++` and `Golang`
 
 Besides languages, I also have knowledge in `Docker` (docker compose is a bless), `Kafka`, `Microservices`, `AWS`, `MySQL`, `MongoDB`, `RabbitMq`, `Jenkins` and other CI/CD tools too. For monitoring I'm experienced with both `Datadog` and `New Relic`.
 
-You can find me on Discord: **Haato#0001**
+You can find me on Discord: **haato**
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haato3o&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
