@@ -35,6 +35,6 @@ You can find me on Discord: **haato**
 <details>
   <summary>Language Statuses</summary>
   
-[![Codersrank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Haato3o)](https://profile.codersrank.io/user/haato3o)<img src="https://cdn.discordapp.com/emojis/540216879776661510.gif?v=1" height=64/>
+[![Wakatime](https://wakatime.com/share/@Haato/9bc45ab8-0e7d-4411-9249-147fb0008f14.svg)](#)<img src="https://cdn.discordapp.com/emojis/540216879776661510.gif?v=1" height=64/>
 
 </details>
